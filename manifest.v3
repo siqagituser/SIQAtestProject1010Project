@@ -8,18 +8,17 @@
   <null name="shutdown_services"/>
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
-    <value name="SIQA_OriginTest_OnPremAssets">1.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">7</value>
+  <value name="build">8</value>
   <null name="description"/>
   <value name="created_date">16-10-2024 04:31:04 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2024-10-16T04:52:27.326518763Z</value>
+  <value name="lastUpdated">2024-11-14T16:42:39.288955409Z</value>
   <value name="wmProjectId">fla5a8c0fb6c3a7cda943df9</value>
   <value name="creator">siqa admin</value>
 </Values>
